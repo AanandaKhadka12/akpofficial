@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/akpofficial/static/css/main.5ef95bd1.chunk.css",
+    "main.js": "/akpofficial/static/js/main.d510e220.chunk.js",
+    "main.js.map": "/akpofficial/static/js/main.d510e220.chunk.js.map",
+    "runtime-main.js": "/akpofficial/static/js/runtime-main.1219b497.js",
+    "runtime-main.js.map": "/akpofficial/static/js/runtime-main.1219b497.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/akpofficial/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.da4a9252.chunk.js": "/akpofficial/static/js/2.da4a9252.chunk.js",
+    "static/js/2.da4a9252.chunk.js.map": "/akpofficial/static/js/2.da4a9252.chunk.js.map",
+    "index.html": "/akpofficial/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/akpofficial/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.5ef95bd1.chunk.css.map": "/akpofficial/static/css/main.5ef95bd1.chunk.css.map",
+    "static/js/2.da4a9252.chunk.js.LICENSE.txt": "/akpofficial/static/js/2.da4a9252.chunk.js.LICENSE.txt",
+    "static/media/camera1.1283f1f4.jpg": "/akpofficial/static/media/camera1.1283f1f4.jpg",
+    "static/media/camera2.9cf4a8a8.jpg": "/akpofficial/static/media/camera2.9cf4a8a8.jpg",
+    "static/media/img1.278b6311.jpg": "/akpofficial/static/media/img1.278b6311.jpg",
+    "static/media/img2.86cb56d4.jpg": "/akpofficial/static/media/img2.86cb56d4.jpg",
+    "static/media/img3.710645d3.jpg": "/akpofficial/static/media/img3.710645d3.jpg",
+    "static/media/img4.e070a20e.jpg": "/akpofficial/static/media/img4.e070a20e.jpg",
+    "static/media/img5.aba9abd6.png": "/akpofficial/static/media/img5.aba9abd6.png",
+    "static/media/img6.37bee6e5.jpg": "/akpofficial/static/media/img6.37bee6e5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1219b497.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.da4a9252.chunk.js",
+    "static/css/main.5ef95bd1.chunk.css",
+    "static/js/main.d510e220.chunk.js"
+  ]
+}
